@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>School-profiles on Matilda L. Bradford Christian School, Inc.</title>
+    <link>https://matildabradford.com/school-profile/</link>
+    <description>Recent content in School-profiles on Matilda L. Bradford Christian School, Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2024 11:22:40 +0800</lastBuildDate>
+    <atom:link href="https://matildabradford.com/school-profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mission</title>
+      <link>https://matildabradford.com/school-profile/mission/</link>
+      <pubDate>Fri, 01 Mar 2024 11:20:54 +0800</pubDate>
+      <guid>https://matildabradford.com/school-profile/mission/</guid>
+      <description>The Matilda L. Bradford Christian School, Inc. commits to provide quality Christian Education that best serves its people and community.</description>
+    </item>
+    <item>
+      <title>Vision</title>
+      <link>https://matildabradford.com/school-profile/vision/</link>
+      <pubDate>Fri, 01 Mar 2024 11:22:40 +0800</pubDate>
+      <guid>https://matildabradford.com/school-profile/vision/</guid>
+      <description>The Matilda L. Bradford Christian School, Inc. envisions to be a leading Christian institution.</description>
+    </item>
+  </channel>
+</rss>
